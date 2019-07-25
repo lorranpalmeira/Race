@@ -1,0 +1,11 @@
+C:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\bin\Debug\netcoreapp2.2\RaceCart.deps.json
+C:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\bin\Debug\netcoreapp2.2\RaceCart.runtimeconfig.json
+C:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\bin\Debug\netcoreapp2.2\RaceCart.runtimeconfig.dev.json
+c:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\bin\Debug\netcoreapp2.2\RaceCart.dll
+c:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\bin\Debug\netcoreapp2.2\RaceCart.pdb
+c:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\obj\Debug\netcoreapp2.2\RaceCart.csprojAssemblyReference.cache
+c:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\obj\Debug\netcoreapp2.2\RaceCart.csproj.CoreCompileInputs.cache
+c:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\obj\Debug\netcoreapp2.2\RaceCart.AssemblyInfoInputs.cache
+c:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\obj\Debug\netcoreapp2.2\RaceCart.AssemblyInfo.cs
+c:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\obj\Debug\netcoreapp2.2\RaceCart.dll
+c:\Users\Lorran\Documents\Projetos\dotnet\RaceCart\obj\Debug\netcoreapp2.2\RaceCart.pdb
